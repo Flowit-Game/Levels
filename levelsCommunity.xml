@@ -328,4 +328,20 @@
                B000B
                00B00
                0B0BB" />
+
+    <level number="155"
+           author="Джульетта"
+           color="000o0
+               ooorr
+               ooorr
+               ooorr
+               orrrr
+               rrrrr"
+           modifier="
+               XXXDX
+               F0000
+               00r00
+               0000F
+               R00o0
+               00000" />
 </levels>
