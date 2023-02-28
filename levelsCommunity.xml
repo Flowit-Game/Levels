@@ -344,4 +344,40 @@
                0000F
                R00o0
                00000" />
+
+    <level number="156"
+           author="Perkuon"
+           color="rrrdr
+               rdrdr
+               rdrdr
+               rdrdr
+               rdrdr
+               rdrrr"
+           modifier="
+               F00s0
+               00000
+               00000
+               00000
+               00000
+               0w000" />
+
+    <level number="157"
+           author="buutje"
+           color="rrrrrr
+               rdrrdr
+               rdrrrr
+               rrrrrd
+               drdrrr
+               rrrrrd
+               drrrrd
+               ddrddd"
+           modifier="
+               000000
+               0D0FF0
+               000000
+               R0000L
+               D0U000
+               00000L
+               00000L
+               B00U00" />
 </levels>
