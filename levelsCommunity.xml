@@ -380,4 +380,76 @@
                00000L
                00000L
                B00U00" />
+
+    <level number="158"
+           author="Perkuson"
+           color="dddodo
+               dooodo
+               ddoodo
+               dbbbdd
+               oboboo
+               obbbod
+               ododod
+               oddddd"
+           modifier="
+               F00D00
+               00000w
+               00o000
+               0a000F
+               00o00o
+               0s0x00
+               00o0U0
+               U0000F" />
+
+    <level number="159"
+           author="Perkuon"
+           color="rrgrr
+               rrrrr
+               rrrrr
+               rrrrr
+               rgrgr
+               rrrrr"
+           modifier="
+               0DFD0
+               00000
+               00B00
+               00000
+               00F00
+               00w00" />
+
+    <level number="160"
+           author="Perkuon"
+           color="0ooo0
+               rrorr
+               rooor
+               rooor
+               rooor
+               roror"
+           modifier="
+               X000X
+               R0B0L
+               00000
+               00F00
+               00000
+               UUFUU" />
+
+    <level number="161"
+           author="Perkuon"
+           color="rgrrrr
+               rrrrrr
+               rrrrrr
+               rgggrg
+               rgrgrr
+               ggggrr
+               rrrrrr
+               rrrgrr"
+           modifier="
+               FD0000
+               000000
+               000000
+               00000L
+               000000
+               R00000
+               000000
+               0U0U00" />
 </levels>
