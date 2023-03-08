@@ -452,4 +452,24 @@
                R00000
                000000
                0U0U00" />
+
+    <level number="162"
+           author="IHM"
+           color="drrrrr
+               rrrrrr
+               rrrrrr
+               rdbbrr
+               rrrrrr
+               rrrrrr
+               rrrrrr
+               ddddbr"
+           modifier="
+               B00000
+               000B00
+               000000
+               0U0B0B
+               R00000
+               000B00
+               F00000
+               BBBBU0" />
 </levels>
