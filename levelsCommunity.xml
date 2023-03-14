@@ -472,4 +472,52 @@
                000B00
                F00000
                BBBBU0" />
+
+    <level number="163"
+           author="ju"
+           color="rrrrr
+               rooob
+               roggg
+               rogrr
+               rogrr
+               rbgrr"
+           modifier="
+               F0000
+               0F00w
+               00F00
+               000BB
+               000B0
+               0x0BB" />
+
+    <level number="164"
+           author="ju"
+           color="ooooo
+               orrro
+               ororo
+               ororo
+               ororo
+               orooo"
+           modifier="
+               00000
+               000w0
+               00000
+               00000
+               00000
+               Fw000" />
+
+    <level number="165"
+           author="Stefan"
+           color="robog
+               robog
+               robog
+               robog
+               robog
+               dooog"
+           modifier="
+               0FDFD
+               00000
+               00000
+               00000
+               U0000
+               R0000" />
 </levels>
