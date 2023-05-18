@@ -520,4 +520,20 @@
                00000
                U0000
                R0000" />
+
+    <level number="166"
+           author="Adrian"
+           color="bgggg
+               brrrr
+               brrrr
+               brrrr
+               ooodd
+               rrrrr"
+           modifier="
+               DR000
+               0DR00
+               000F0
+               U0000
+               00LR0
+               F0000" />
 </levels>
