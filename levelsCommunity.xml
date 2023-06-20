@@ -536,4 +536,44 @@
                U0000
                00LR0
                F0000" />
+
+    <level number="167"
+           author="adrian"
+           color="gggrbb
+               oborgr
+               oborgr
+               oborrr
+               obordr
+               ooordr
+               gggggg
+               rrrrrr"
+           modifier="
+               R0000L
+               000000
+               000UU0
+               00U00x
+               UU0000
+               00xUU0
+               00000L
+               00000L" />
+
+    <level number="168"
+           author="Owert198"
+           color="ooooog
+               ooooog
+               ooooog
+               o00000
+               o00000
+               o00000
+               rrrrro
+               gdbor0"
+           modifier="
+               grbdgd
+               bgdBdb
+               rbgdgr
+               0XXXXX
+               0XXXXX
+               0XXXXX
+               00000L
+               FFFFFX" />
 </levels>
