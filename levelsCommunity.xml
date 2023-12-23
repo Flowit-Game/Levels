@@ -648,4 +648,40 @@
                0wobF
                0b00F
                FUwFg" />
+
+    <level number="173"
+           author="gx²"
+           color="bbggdb
+               bbgddd
+               gbgggb
+               bggbob
+               oooggg
+               ggrdbd
+               ddrddd
+               bdbdod"
+           modifier="
+               FD000L
+               00000L
+               R0B000
+               000000
+               R0000L
+               F000U0
+               F0w000
+               R00UF0" />
+
+    <level number="174"
+           author="Jo"
+           color="bbbbr
+               rooor
+               roror
+               roror
+               roooo
+               rbbbb"
+           modifier="
+               000xx
+               0F000
+               00D00
+               00000
+               0000L
+               xx000" />
 </levels>
