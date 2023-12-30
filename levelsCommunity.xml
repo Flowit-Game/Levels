@@ -684,4 +684,24 @@
                00000
                0000L
                xx000" />
+
+    <level number="175"
+           author="gx²"
+           color="oorbgd
+               rrrbbb
+               dbrobr
+               obdooo
+               gboodd
+               bbddgg
+               rrdrrg
+               gddrgg"
+           modifier="
+               oDDFDF
+               000000
+               R00w0F
+               00000F
+               R0000L
+               R00000
+               R00000
+               F00000" />
 </levels>
