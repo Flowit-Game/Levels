@@ -704,4 +704,64 @@
                R00000
                R00000
                F00000" />
+
+    <level number="176"
+           author="Jman"
+           color="0obgd0
+               oggggg
+               boobbd
+               bogdbo
+               dggbod
+               ggdbod
+               000000
+               000000"
+           modifier="
+               XFDDDX
+               R0000F
+               F0000F
+               R0000L
+               R00000
+               00000L
+               XXXXXX
+               XXXXXX" />
+
+    <level number="177"
+           author="gx²"
+           color="gdbrgg
+               grrrgg
+               ggrogg
+               rddbog
+               rdgrdd
+               ddoobb
+               bbddoo
+               bdddoo"
+           modifier="
+               0DD0F0
+               000000
+               000w00
+               R0000L
+               F00000
+               R00000
+               Fw0000
+               000FUF" />
+
+    <level number="178"
+           author="gx²"
+           color="bbbgor
+               rbdgoo
+               oodgbb
+               oodbrr
+               ordbrb
+               drgrrb
+               rrrggb
+               gdrdbb"
+           modifier="
+               00000L
+               000L0F
+               o0000L
+               00000F
+               R00000
+               00w000
+               000000
+               FUFFUF" />
 </levels>
