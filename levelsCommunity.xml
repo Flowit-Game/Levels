@@ -780,4 +780,20 @@
                00000
                00B00
                F000F" />
+
+    <level number="180"
+        author="khan"
+        color="oddrr
+               ogobb
+               ogobb
+               rrobb
+               rrggr
+               rrddd"
+        modifier="
+               DR0F0
+               00000
+               0UF0B
+               00000
+               B0R0r
+               0000a" />
 </levels>
