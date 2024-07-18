@@ -796,4 +796,25 @@
                00000
                B0R0r
                0000a" />
+
+    <level number="181"
+           author="AG"
+           color="rrgrgg
+               grgrgr
+               gggror
+               oorrgr
+               oorrrr
+               rgrrrr
+               rrrrrr
+               grrrgg"
+           modifier="
+               00000L
+               000000
+               0000L0
+               B000L0
+               0000L0
+               FU0000
+               000w00
+               F000gU" />
+
 </levels>
