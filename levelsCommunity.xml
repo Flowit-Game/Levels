@@ -2,6 +2,7 @@
 <levels>
 
     <level number="136"
+           solution="B4,E2,E2,A4,E3,E3,A8"
            author="Hleb"
            color="ddrrdr
                drrrdr
@@ -22,6 +23,7 @@
                F00000" />
 
     <level number="137"
+           solution="A6,A6,E2,E2,E6,E2,A6,E6,A6,D5,E3,D5,B6,E6,E3,C4"
            author="Nico207"
            color="bbbbr
                rooob
@@ -58,6 +60,7 @@
                F0Fs00" />
 
     <level number="139"
+        solution="D1,B2,A6,C4,E4"
            author="A-Nicoladie"
            color="bbbrr
                bbbrr
@@ -74,6 +77,7 @@
                F00UB" />
 
     <level number="140"
+           solution="A6,A6,A1,A6,A1,A6,C1,C1,C1,A1,C1,C1,C1,C1,D3,B3,D4"
            author="Nicholas Burtsev"
            color="oodrr
                gggrr
@@ -90,6 +94,7 @@
                s0000" />
 
     <level number="141"
+           solution="B4,B4,A5,B4,B4,B4,E1,E1,B4,E1,D2,D2,D2,E1,A5,A5"
            author="Kater"
            color="roooo
                rgggo
@@ -106,6 +111,7 @@
                XXXXX" />
 
     <level number="142"
+           solution="E6,D2,D2,C5,A5,C3,B1,B1,A5"
            author="Paulchen"
            color="gdggg
                ggddg
@@ -138,6 +144,7 @@
                0UUdF" />
 
     <level number="144"
+           solution="A7,C7,A7,A4,A7,A4,A7,E7,E4,E7,C1,C1,B7,E4,E4,D7"
            author="Dezi"
            color="bbboo0
                bbboo0
@@ -178,6 +185,7 @@
                0a00x0" />
 
     <level number="146"
+        solution="C5,C6,C2,C1,C6,C1,C2,C2,C5,A3,C5,A3,C6,C2,C2,C1"
         author="Tom"
         color="bbbbb
                bbdbb
@@ -194,6 +202,7 @@
                drFdr" />
 
     <level number="147"
+        solution="E6,A5,A6,C2"
         author="Luke Meyer"
         color="rooog
                rooog
@@ -210,6 +219,7 @@
                F000U" />
 
     <level number="148"
+           solution="B5,A1,D5,E1,A6,B2,E6,D2"
            author="Bo Bo"
            color="gbbbb
                gggbo
@@ -258,6 +268,7 @@
                0FUbF" />
 
     <level number="151"
+           solution="B1,B1,D4,A3,D6,B1,B6"
            author="Hornochse"
            color="drrrr
                dr00r
@@ -294,6 +305,7 @@
                000000" />
 
     <level number="153"
+           solution="C8,A5,C4,C8,D5,F5,C4,F5,C1,D5,C4"
            author="Christos"
            color="dddrrr
                dgdror
@@ -314,6 +326,7 @@
                00UU00" />
 
     <level number="154"
+           solution="E1,E3,A2,C3,C5,A4"
            author="Bomby"
            color="bbrrr
                brrro
@@ -330,6 +343,7 @@
                0B0BB" />
 
     <level number="155"
+           solution="E4,E4,A5,D1,A2,A5,D1,E4"
            author="Джульетта"
            color="000o0
                ooorr
@@ -346,6 +360,7 @@
                00000" />
 
     <level number="156"
+           solution="A1,B6,D1,A1,B6,D1,A1,B6,B6,D1,D1,A1,B6,D1,B6,D1,A1"
            author="Perkuon"
            color="rrrdr
                rdrdr
@@ -362,6 +377,7 @@
                0w000" />
 
     <level number="157"
+           solution="B2,F7,D8,F7,E2,F7,A5,F6,B2,A4,E2,B2,D2"
            author="buutje"
            color="rrrrrr
                rdrrdr
@@ -402,6 +418,7 @@
                U0000F" />
 
     <level number="159"
+           solution="D1,B1,C1,D1,B1,C5,C6,D1,C6,C6,B1,C6,C1,C1,C3"
            author="Perkuon"
            color="rrgrr
                rrrrr
@@ -418,6 +435,7 @@
                00w00" />
 
     <level number="160"
+           solution="E6,A6,C4,C2,D6,B6,E2,A2,C4,C4,C4"
            author="Perkuon"
            color="0ooo0
                rrorr
@@ -434,6 +452,7 @@
                UUFUU" />
 
     <level number="161"
+           solution="B1,F4,D8,A6,A6,B1,A1,B8,A6,B1,F4,B1,F4,D8,F4,A1,A1,D8,A1,A1,A6,D8,A6,A1,B8,A1"
            author="Perkuon"
            color="rgrrrr
                rrrrrr
@@ -454,6 +473,7 @@
                0U0U00" />
 
     <level number="162"
+           solution="A7,D4,F4,D2,D6"
            author="IHM"
            color="drrrrr
                rrrrrr
@@ -474,6 +494,7 @@
                BBBBU0" />
 
     <level number="163"
+           solution="B6,B6,E2,E2,B6,E2,B6,E2,B6,E2,B6,E2,B6,E2,A1,C3,B6,E2,E6,B2"
            author="ju"
            color="rrrrr
                rooob
@@ -490,6 +511,7 @@
                0x0BB" />
 
     <level number="164"
+           solution="B6,B6,B6,B6,D2,D2,A6,D2,B6,B6,B6,D2,D2,B6,D2,B6,A6,A6"
            author="ju"
            color="ooooo
                orrro
@@ -506,6 +528,7 @@
                Fw000" />
 
     <level number="165"
+           solution="E1,A6,A5,C1,A6,B1"
            author="Stefan"
            color="robog
                robog
@@ -522,6 +545,7 @@
                R0000" />
 
     <level number="166"
+           solution="C5,A1,D5,B1,A6,D3"
            author="Adrian"
            color="bgggg
                brrrr
@@ -538,6 +562,7 @@
                F0000" />
 
     <level number="167"
+           solution="F4,F4,F4,D3,A5,A1,C6,F1,D6,E3,F7,C4,C6,F4,C6,B5,C6,E6,F8"
            author="adrian"
            color="gggrbb
                oborgr
@@ -558,6 +583,7 @@
                00000L" />
 
     <level number="168"
+           solution="E8,E8,C8,C8,A8,A8,B8,B8,A8,A8,E8,E8,C8,C8,B8,B8,A8,D2,A8,D8,F7,E8"
            author="Owert198"
            color="ooooog
                ooooog
@@ -578,6 +604,7 @@
                FFFFFX" />
 
     <level number="169"
+           solution="C4,B6,A3,C4,D1,A3,B6,A3,A3,E5,C4,D2,D2,D2,B6,C4,B6,A3,E6"
            author="0siribix"
            color="oboob
                rrrbr
@@ -670,6 +697,7 @@
                R00UF0" />
 
     <level number="174"
+           solution="B2,D1,A6,D1,A6,B2,A6,D1,A6,E5,E1,E1,C3,B2,B6"
            author="Jo"
            color="bbbbr
                rooor
@@ -766,6 +794,7 @@
                FUFFUF" />
 
     <level number="179"
+           solution="A6,E3,A6,B3,A1,E6,A1,C5,E2"
            author="SecureasCordes"
            color="boooo
                doddo
@@ -782,6 +811,7 @@
                F000F" />
 
     <level number="180"
+        solution="E3,B1,E6,B3,C3,A5,D1,C5"
         author="khan"
         color="oddrr
                ogobb
