@@ -18,6 +18,7 @@
                0UXUF" />
 
     <level number="55"
+        solution="D2,B3,E5,D2,B3,B3,B3,A1,A1,A1,A1,A1,A1,A1,A1,B3,E5,C4,B3,D1,A6,D1,D1,E5,C4"
         color="bgbgg
                gggdg
                gbggg
@@ -125,6 +126,7 @@
                FUUFF" />
 
     <level number="71"
+        solution="E2,E2,E2,C5,C5,E2,A1,C5,A1,D4,A5,C6,C1,A1,D1,C1,A5,D1,B6,A4,D1,A4,B6,C6,D1,B6,D1"
         color="bbdrb
                bbrrb
                grrrr

@@ -454,6 +454,7 @@
                00U0F" />
 
     <level number="59"
+        solution="A4,D2,D2,A4,D2,A4,C6,D3,D3,D3,C6,A4,A1,D3,A5,A5,B6,D3,A1,B6,C6,A5,A4,C6,E6,E4"
         color="bbboo
                bbgbb
                bogbb
@@ -517,6 +518,7 @@
                0F00L" />
 
     <level number="66"
+        solution="E3,D5,E3,E6,C2,E3,A2,C4,A2,C6,E2,A3,E3,A4,C6,B6,E2,B6,C6,E2,A3,B6,C6,A2"
         color="gooob
                rrboo
                brrrb
@@ -607,6 +609,7 @@
                F000UF" />
 
     <level number="80"
+        solution="B3,B6,B7,E8,B5,B3,D8,B4,F8,D8,E2,B5,F8,F8,E2,F4,A7,E2,E8,B7,F4,B6"
         color="rrrrrr
                boooor
                bgrrrr
@@ -703,6 +706,7 @@
                UUUUU0" />
 
     <level number="89"
+        solution="A1,D8,D8,B8,B8,A1,A1,A7,C1,A1,A7,C8,C8,E8,E8,D8,E4,F6,D8,E8,C1,F7,B8"
         color="dddggo
                ddrggo
                dbrggo
