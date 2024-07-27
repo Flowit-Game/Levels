@@ -236,6 +236,7 @@
                R000U" />
 
     <level number="149"
+           solution="D2,D2,D2,C3,D2,C4,C4,C4,D5,D5,D5,C3,D2,D2,A1,D2,A3,E6,E6,E6,A1,C4,D2,D2,A1"
            author="Nico207"
            color="rrrrr
                ggbbo
@@ -252,6 +253,7 @@
                0000s" />
 
     <level number="150"
+           solution="E4,A5,A5,C6,B6,E4,B6,E3,B1,E3,C1,E1,E1,E2,B1,C1,E4,C1,E4,B6,E2,E3,A5,C1,E1,E3,E1,A5,A5"
            author="Wraith "
            color="obbrg
                orrro
@@ -285,6 +287,7 @@
                0B0B0" />
 
     <level number="152"
+           solution="A1,F6,A1,D1,A4,C5,C5,A4,A1,F6,A5,F6,A7,F7"
            author="Christos"
            color="bbboob
                gbboob
