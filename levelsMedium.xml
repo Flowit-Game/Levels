@@ -806,7 +806,7 @@
                0UXXUF" />
 
     <level number="104"
-           solution="C1,A8,C1,A8,E2,C8,D8,E2,E2,E2,E2,D8,A8,F8,B8,E2,E2,C8,F8,D8"
+           solution="C1,A8,C1,F8,A8,E2,C8,E2,E2,F8,E2,E2,A8,E2,B8,C8,D8"
            color="gbgbbg
                bbbbgr
                b0000r
