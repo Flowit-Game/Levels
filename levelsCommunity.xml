@@ -871,4 +871,21 @@
                000000
                U0FUFF" />
 
+    <level number="183"
+        solution="C1,A2,E1,D6,D6,E4,D6,D6,D6"
+        author="dtex"
+        color="bdddr
+               drrrr
+               rrdrr
+               rrrrr
+               rdrbr
+               rrrbr"
+        modifier="
+               F0B0F
+               R0d00
+               00U00
+               0000D
+               0B0b0
+               000wb" />
+
 </levels>
