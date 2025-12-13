@@ -945,4 +945,42 @@
                R0B0F
                R0000
                XUUUX" />
+
+    <!-- D0,C0,C4,A2,C0,D0,F2,C0,C0,C0,F2,D0,F2,D0,C0,C4,A2,C0,D0,F2,C0,C0,F2,D0,C0,F2,F0,F4 -->
+    <level number="187"
+           author="SecureasCordes"
+           color="d0d0d
+               ddrdd
+               rrrrd
+               bbbbb
+               0drd0
+               d0r0d"
+           modifier="
+               0XDX0
+               00000
+               R000F
+               R0000
+               Xr0rX
+               BXUXB" />
+
+    <!-- E1,B4,B4,B4,B4,B3,B3,E1,A3,E1,B4,B4,B4,B4,B3,B3,E1,D4,D4,D4,D4,D4,D4,A3,B0,A3,D4,D4,D4,D4,B3,B4,D4,D4,D4,B2 -->
+    <level number="188"
+           author="SecureasCordes"
+           color="0b0boo
+               bddgoo
+               dd0gro
+               d00dro
+               drdd0o
+               dddd0o
+               gddd0b
+               bo0000"
+           modifier="
+               X0XF00
+               R0FFF0
+               00X000
+               0XX0a0
+               0DgoX0
+               0000X0
+               g0o0Xb
+               boXXXX" />
 </levels>
