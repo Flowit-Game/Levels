@@ -983,4 +983,21 @@
                0000X0
                g0o0Xb
                boXXXX" />
+
+    <!-- B4,B4,E3,E3,B4,B0,B4,E3,E2,E3,B0,E3,B0,E3,E2,F3,F3,E2 -->
+    <level number="189"
+        author="Greg"
+        color="gggro
+               grrrb
+               rrrrr
+               rrbrr
+               rrrdr
+               rrbor"
+        modifier="
+               0000B
+               F000L
+               o0000
+               00F00
+               00FU0
+               00LF0" />
 </levels>
