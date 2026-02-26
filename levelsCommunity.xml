@@ -984,20 +984,41 @@
                g0o0Xb
                boXXXX" />
 
-    <!-- B4,B4,E3,E3,B4,B0,B4,E3,E2,E3,B0,E3,B0,E3,E2,F3,F3,E2 -->
     <level number="189"
-        author="Greg"
-        color="gggro
+           author="Greg"
+           solution="D5,A2,D5,C4,E2,A2,E2,A2,C4,C4,D6,D6,C5"
+           color="gggro
                grrrb
                rrrrr
                rrbrr
                rrrdr
                rrbor"
-        modifier="
+           modifier="
                0000B
                F000L
                o0000
                00F00
                00FU0
                00LF0" />
+
+    <level number="190"
+           author="MAYONNAISE"
+           solution="H2,B1,B5,B3,E4,G4,F1"
+           color="rrrrrr
+               rrrrrr
+               rrrrrr
+               rrrrrr
+               rrrrrr
+               rrrrrr
+               rrrrrr
+               rrrrrr"
+           modifier="
+               BodgBo
+               gBbBgB
+               dbBrbo
+               rBrBrd
+               BddgBo
+               dBgdbB
+               roBbBg
+               00LBod" />
 </levels>
