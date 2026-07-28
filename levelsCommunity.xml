@@ -946,9 +946,9 @@
                R0000
                XUUUX" />
 
-    <!-- D0,C0,C4,A2,C0,D0,F2,C0,C0,C0,F2,D0,F2,D0,C0,C4,A2,C0,D0,F2,C0,C0,F2,D0,C0,F2,F0,F4 -->
     <level number="187"
            author="SecureasCordes"
+           solution="A3,A6,A4,E3,C1,A3,A4,C6,E6,A3,A3,C6,A3,A4,C6"
            color="d0d0d
                ddrdd
                rrrrd
@@ -963,9 +963,9 @@
                Xr0rX
                BXUXB" />
 
-    <!-- E1,B4,B4,B4,B4,B3,B3,E1,A3,E1,B4,B4,B4,B4,B3,B3,E1,D4,D4,D4,D4,D4,D4,A3,B0,A3,D4,D4,D4,D4,B3,B4,D4,D4,D4,B2 -->
     <level number="188"
            author="SecureasCordes"
+           solution="E2,E2,B5,D2,E4,D2,E2,E4,E2,E4,E4,B5,D1,A2,D1,E4,E4,D2,E4,E2,E4,E4,C2"
            color="0b0boo
                bddgoo
                dd0gro
@@ -1022,9 +1022,9 @@
                roBbBg
                00LBod" />
 
-    <!-- C4,F0,C4,A0,C4,A4,F3,F1,F4, -->
     <level number="191"
            author="Arrow Fills"
+           solution="E3,D6,A6,B6,E3,E6,A1,E3,E1"
            color="brrrr
                brrrr
                bdddd
@@ -1038,4 +1038,21 @@
                00000
                00000
                UF0UF" />
+
+    <level number="192"
+           author="Froy GG"
+           solution="D6,E6,E4,E4,E6,C6"
+           color="rrrrr
+               rrrr0
+               rrrr0
+               rrrrb
+               rrrrr
+               brrbb"
+           modifier="
+               r000b
+               0000X
+               b000X
+               0000L
+               00000
+               b0FUF" />
 </levels>
