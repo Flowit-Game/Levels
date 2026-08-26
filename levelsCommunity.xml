@@ -1055,4 +1055,21 @@
                0000L
                00000
                b0FUF" />
+
+    <level number="193"
+           author="Silli"
+           solution="A2,C5,C5,A3,D5,D5,A4,A1,B5,C6,A2,A3,E6,E6,A5,E5"
+           color="rrrrr
+               ggrrg
+               gggrg
+               goggg
+               ogggg
+               boooo"
+           modifier="
+               F0000
+               R0000
+               R0000
+               R0000
+               RUUUL
+               b0B0F" />
 </levels>
