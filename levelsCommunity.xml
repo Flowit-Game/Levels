@@ -1073,4 +1073,21 @@
                R0000
                RUUUL
                b0B0F" />
+
+    <level number="194"
+           author="Eru"
+           solution="B4,B2,C4,B4,B4,B2,D2,B4,B2,B2,B4,D2,B2,D4,C4,D2,C4,B4,B2,D2,B4,B2,D2,D4,D2"
+           color="00000
+               0boo0
+               0bbr0
+               0ror0
+               00000
+               00000"
+           modifier="
+               XXXXX
+               XF0FX
+               X0obX
+               XFUFX
+               XXXXX
+               XXXXX" />
 </levels>
